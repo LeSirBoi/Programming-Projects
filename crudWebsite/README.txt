@@ -1,0 +1,1 @@
+This is a simple website using Python (Flask) and Javascript (React) that allows you to create, read, update, and delete contact information.
